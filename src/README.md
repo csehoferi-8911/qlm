@@ -1,3 +1,7 @@
+```
+- OpenJDK 21
+- SpringBoot 3.3.3
+```
 Alkalmazás sima spring-boot-ként indítható, profile nélkül.
 
 swagger hozzá: http://localhost:8080/swagger-ui/index.html
